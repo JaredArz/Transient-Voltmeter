@@ -1,0 +1,13 @@
+"./ADC.obj"
+"./BusyWait.asm.obj"
+"./IO.obj"
+"./PLL.obj"
+"./PortsFCInit.obj"
+"./ST7735.obj"
+"./StringConversion.asm.obj"
+"./SysTick.obj"
+"./Timer2A.obj"
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
